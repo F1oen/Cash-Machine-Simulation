@@ -19,4 +19,4 @@ This project simulates the functionality of a basic automated teller machine (AT
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/cash-machine-simulation.git
+   git clone https://github.com/F1oen/cash-machine-simulation.git
